@@ -69,7 +69,7 @@ La aplicación permite configurar la experiencia visual según las preferencias 
 
 1.  Clona este repositorio:
     ```bash
-    git clone [https://github.com/elvinpoma/API-List-App.git](https://github.com/elvinpoma/API-List-App.git)
+    git clone https://github.com/elvinpoma/API-List-App.git
     ```
 2.  Abre el proyecto en **Android Studio**.
 3.  Sincroniza el proyecto con los archivos de Gradle.
