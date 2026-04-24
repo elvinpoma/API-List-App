@@ -1,6 +1,16 @@
 # API-List-App
 Aplicación nativa para Android desarrollada con **Kotlin** y **Jetpack Compose**. El proyecto destaca por implementar una arquitectura moderna que consume datos de una **API REST** y asegura la persistencia mediante una **base de datos local**.
 
+
+## ⚠️ Aclaración sobre el contenido (API)
+
+Este proyecto ha sido desarrollado **únicamente con fines educativos y de práctica**. 
+
+Todos los datos, nombres, descripciones e imágenes mostrados en la aplicación se consumen directamente de la [API pública y gratuita de Rick and Morty](https://rickandmortyapi.com/). 
+
+No soy el creador, autor ni propietario de dicho material. Cabe destacar que el universo de la serie *Rick y Morty* se caracteriza por su humor adulto, ciencia ficción absurda y personajes un tanto extravagantes. Por lo tanto, cualquier contenido, nombre o imagen inusual o "extraña" que pueda visualizarse al probar la aplicación es simplemente un reflejo directo de los datos que provee la API y de la naturaleza de la propia serie.
+
+
 ##  Características principales
 
 - **Interfaz Declarativa:** Construida totalmente con Jetpack Compose para una experiencia de usuario fluida y moderna.
