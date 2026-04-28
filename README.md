@@ -54,13 +54,13 @@ La aplicación permite configurar la experiencia visual según las preferencias 
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+##  Tecnologías utilizadas
 
 * **Lenguaje:** [Kotlin](https://kotlinlang.org/)
 * **UI Framework:** [Jetpack Compose](https://developer.android.com/jetpack/compose)
 * **Entorno de Desarrollo:** Android Studio
-* **Base de Datos:** Room / SQLite (Persistencia local)
-* **Networking:** Retrofit / Ktor (Consumo de API)
+* **Base de Datos:** Room (Persistencia local)
+* **Networking:** Retrofit (Consumo de API)
 * **Arquitectura:** MVVM (Model-View-ViewModel)
 
 ---
